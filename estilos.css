@@ -1,0 +1,263 @@
+body{
+    max-width: 1200px;
+    margin: 0 auto;
+    font-size: 1.1em;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(236, 236, 236);
+}
+
+h1{
+    color: darkgoldenrod;
+    font-size: 35px;
+    margin-right: 2em;
+}
+
+h2.combina{
+    text-align: center;
+    font-size: 35px;
+    color:darkgoldenrod;
+    margin-top: 4em;
+    margin-bottom: 1em;
+}
+
+
+h3{
+    text-align: center;
+    margin-bottom: 3em;
+}
+
+nav ul li{
+    float: left;
+    padding: 10px 40px;
+    font-size: 1.1em;;
+    list-style-type: none;
+    margin-bottom: 4em;
+    background-color: black;
+    color: white;
+    border: 1px solid black;  
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: rgb(156, 146, 85);
+}
+
+img{
+    width: 100%;
+    height: 400px;
+}
+
+.textoInicial{
+    width: 100%;
+    line-height: 2em;    
+}
+
+.TextoDescubre{
+    float: left;
+}
+
+.RelojDorado img{
+    float: left;
+    height: 350px;
+    width: 45%;
+}
+
+.RelojDorado p{
+    float: right;
+    width: 50%;
+    margin-top: 7em;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.TextoDescubre2{
+    float: right;
+}
+
+.smartwatch img{
+    float: right;
+    width: 45%;
+    height: 350px;
+    margin-top: 5em;
+}
+
+.smartwatch p{
+    float: left;
+    width: 50%;
+    font-weight: bold;
+    font-size: 22px;
+    margin-top: 9em;
+}
+
+
+.TextoRelojesAutomaticos{
+    float: left;
+    width: 33%;
+    padding-left:6em;
+    padding-right: 4em;
+
+}
+.TextoRelojesAutomaticos h3{
+    color: darkgoldenrod;
+
+}
+
+.TextoRelojesAutomaticos img{
+    margin-top: 10px;
+    height: 400px;
+    margin-bottom: 0px;
+}
+
+.TextoRelojesAutomaticos p.ultParrafo{
+    margin-bottom: 3em;
+}
+
+.RelojesAutomaticos2{
+    float: left;
+   
+}
+
+.TextoRelojesAutomaticos2{
+    width: 33%;
+    margin-left: 6em;
+    margin-right: 4em;
+    float: left;
+  
+}
+
+.TextoRelojesAutomaticos2 h3 {
+   margin-top: 3em;
+   color: darkgoldenrod;
+}
+
+.TextoRelojesAutomaticos2 img {
+    margin-top: 10px;
+    height: 400px;
+    margin-bottom: 8px;
+}
+
+.CombinaReloj{
+    max-width: 1200px;
+    margin-bottom: 10em;
+
+}
+
+.CombinaReloj img{
+    float: left;
+    width: 400px;
+    margin-right: 20px;
+    
+}
+
+.CombinaReloj p{
+    line-height: 1.8em;
+    font-size: 18px;
+}
+
+p{
+    text-align: left;
+    font-size: 18px;
+    line-height: 1.8em;
+}
+
+.CombinaSmartwatch{
+    max-width: 1200px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.CombinaSmartwatch img{
+    width: 520px;
+    float: left;
+    margin-right: 20px;
+}
+
+.CombinaSmartwatch p{
+    line-height: 1.8em;
+    font-size: 18px;
+
+}
+
+table{
+    font-size: 18px;
+    width: 100%;
+    margin-top: 15px;
+    padding: 0px 0 0 0;
+    border: black 5px solid;
+    border-collapse: collapse;
+    margin-bottom: 50px;
+}
+
+table thead{
+    background-color:black;
+    color:darkgoldenrod;
+    padding: 0.5em;
+}
+
+table td{
+    padding: 0.5em;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+   
+   
+}
+table td:nth-child(1){
+    text-align: center;
+    Border-left: none;
+}
+
+table td:nth-child(2){
+    text-align: center;
+}
+
+table td:nth-child(3){
+    text-align: center;
+
+}
+
+table td:nth-child(4){
+    text-align: center;
+}
+
+table td:nth-child(5){
+    text-align: center;
+    border-right: none;
+}
+
+table tr:nth-child(2){
+    background-color: rgba(236, 224, 189, 0.986);
+}
+
+footer{
+    background-color: rgba(196, 196, 196, 0.925);
+    height: 150px;
+    width: 100%;
+
+}
+footer h2{
+    padding-top: 55px;
+    text-align: center;
+    color: darkgoldenrod;
+}
+
+footer h4{
+    padding-top: 2px;
+    text-align: center;
+}
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
